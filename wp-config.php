@@ -14,9 +14,9 @@ if (isset($_SERVER['HTTP_X_FORWARDED_PROTO']) && $_SERVER['HTTP_X_FORWARDED_PROT
 // ===================================================
 // 2. DATABASE SETTINGS (Aapki di gayi details)
 // ===================================================
-define('DB_NAME',     'nlmyu2m8ujmn9r6f');
-define('DB_USER',     'uab2t3gc7m1cmfuz');
-define('DB_PASSWORD', 'upfynfz6897m8quw');
+define('DB_NAME',     'w752oqlgn4dvtyyo');
+define('DB_USER',     'a3ay6mpjk61rg50j');
+define('DB_PASSWORD', 'me3f4el0q9um4plk');
 define('DB_HOST',     'b4e9xxkxnpu2v96i.cbetxkdyhwsb.us-east-1.rds.amazonaws.com');
 define('DB_CHARSET',  'utf8');
 define('DB_COLLATE',  '');
